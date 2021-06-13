@@ -1,5 +1,5 @@
 //OK, so this thing will store random generations of encounters and such.
-
+asdfghjk
 #include <iostream>
 #include <string>
 #include <fstream>
